@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @komms
+- 👋 Hi, I’m Komal
 - 👀 I’m interested in Robotics, Machine Learning, Software Engineering.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Climate Tech, Robotics.
