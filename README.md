@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Komal
 - 👀 I’m interested in Climate Tech, Data Analysis, Robotics, Machine Learning, Software Engineering.
-- 💞️ I’m looking to collaborate on Climate Tech, Robotics.
+- 💞️ I’m looking to collaborate on Climate Tech, Robotics and LLMs
 - 📫 How to reach me https://www.linkedin.com/in/komal-vendidandi/
 
 <!---
